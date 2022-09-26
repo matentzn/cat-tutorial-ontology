@@ -5,3 +5,5 @@
 Welcome to the CATO documentation!
 
 You can find descriptions of the standard ontology engineering workflows [here](odk-workflows/index.md).
+
+Please reach out on the [issue tracker](https://github.com/matentzn/cat-tutorial-ontology/issues).
